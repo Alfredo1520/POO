@@ -1,0 +1,9 @@
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\bin\Debug\MiProyectoWindowsForms.exe.config
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\bin\Debug\MiProyectoWindowsForms.exe
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\bin\Debug\MiProyectoWindowsForms.pdb
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\obj\Debug\MiProyectoWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\obj\Debug\MiProyectoWindowsForms.Form1.resources
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\obj\Debug\MiProyectoWindowsForms.Properties.Resources.resources
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\obj\Debug\MiProyectoWindowsForms.csproj.GenerateResource.Cache
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\obj\Debug\MiProyectoWindowsForms.exe
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiProyectoWindowsForms\obj\Debug\MiProyectoWindowsForms.pdb

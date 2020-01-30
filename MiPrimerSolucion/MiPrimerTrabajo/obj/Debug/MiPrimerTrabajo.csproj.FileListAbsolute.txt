@@ -1,0 +1,6 @@
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiPrimerTrabajo\bin\Debug\MiPrimerTrabajo.exe.config
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiPrimerTrabajo\bin\Debug\MiPrimerTrabajo.exe
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiPrimerTrabajo\bin\Debug\MiPrimerTrabajo.pdb
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiPrimerTrabajo\obj\Debug\MiPrimerTrabajo.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiPrimerTrabajo\obj\Debug\MiPrimerTrabajo.exe
+C:\Users\alfre\Documents\Programacion 2\MiPrimerSolucion\MiPrimerTrabajo\obj\Debug\MiPrimerTrabajo.pdb
